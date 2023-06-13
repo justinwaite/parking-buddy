@@ -1,0 +1,7 @@
+{
+    "sketch": "parking-buddy.ino",
+    "output": "build",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "port": "/dev/tty.usbserial-31120"
+}
